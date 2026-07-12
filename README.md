@@ -139,6 +139,15 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋 About Me
 
-Hi, I'm **Chanakya Sree Harsha G** — a data enthusiast passionate about building clean, scalable data solutions.
+## 🙋 About Me
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/chanakyasreeharsha) or explore more of my work on [GitHub](https://github.com/ChanakyaSreeHarshaG).
+Hi, I'm **Chandra Prakash Reddy Kotra**, a Computer Science Engineering graduate passionate about **Data Engineering, SQL, Data Warehousing, ETL Development, and Software Development**.
+
+I enjoy building scalable data solutions, designing efficient ETL pipelines, and transforming raw data into meaningful business insights using SQL Server and the Medallion Architecture. I'm continuously learning and improving my skills through real-world projects.
+
+Feel free to connect with me or explore my work:
+
+* 🌐 **GitHub:** (https://github.com/Chandu20036)
+* 💼 **LinkedIn:** (https://www.linkedin.com/in/kotra-chandra-prakash)
+* 📧 **Email:** (chandraprakashreddykotra@gmail.com)
+
